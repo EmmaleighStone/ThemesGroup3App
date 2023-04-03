@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">03272023</string>
+    <string name="introTxt">Welcome, new user! Please verify your information below.</string>
+    <string name="fNameTxt">First Name:</string>
+    <string name="lNameTxt">Last Name:</string>
+    <string name="emailTxt">Email Address:</string>
+    <string name="updateBtn">Update Information</string>
+    <string name="verifyBtn">Verify Information</string>
+    <string name="appName">Create Account</string>/>
+</resources>
